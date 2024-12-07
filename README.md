@@ -1,6 +1,7 @@
+Linux/Mac版本 串口调试助手,支持socat建立的虚拟串口
 # 修改自 https://github.com/kangear/sscom
-# 修改了手动输入串口号，以适配虚拟串口，例：/dev/pts/2
-# 适配qt6
+## 修改了手动输入串口号，以适配虚拟串口，例：/dev/pts/2
+## 适配qt6
 
 # 以下为 kangear 原文档：
 # sscom
